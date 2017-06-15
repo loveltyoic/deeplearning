@@ -1,0 +1,293 @@
+[W 21:56:25.464 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 21:56:25.470 NotebookApp] Serving notebooks from local directory: /home/deep/nbs
+[I 21:56:25.470 NotebookApp] 0 active kernels 
+[I 21:56:25.470 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 21:56:25.471 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:56:51.041 NotebookApp] 302 GET / (172.16.12.212) 3.23ms
+[W 21:56:55.123 NotebookApp] Notebook lesson3.ipynb is not trusted
+[I 21:57:01.737 NotebookApp] Kernel started: 2f0c5068-2627-46f8-a4c2-f1f205b4f37b
+[W 21:58:05.245 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 21:58:07.486 NotebookApp] Kernel started: 342930fc-ff38-4be1-bea9-ea6cd26fc995
+[I 21:58:11.801 NotebookApp] Kernel shutdown: 2f0c5068-2627-46f8-a4c2-f1f205b4f37b
+[W 22:00:38.466 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 08:46:52.766 NotebookApp] 404 GET /api/kernels/e2b479d8-6bff-43c3-bf36-29da109b806f/channels?session_id=4050F2FD878D417E838816C2939F07EC (192.168.29.12): Kernel does not exist: e2b479d8-6bff-43c3-bf36-29da109b806f
+[W 08:46:52.780 NotebookApp] 404 GET /api/kernels/e2b479d8-6bff-43c3-bf36-29da109b806f/channels?session_id=4050F2FD878D417E838816C2939F07EC (192.168.29.12) 41.45ms referer=None
+[W 08:46:52.798 NotebookApp] 404 GET /api/kernels/5cb19a68-4d87-41bb-a67e-d332a98235db/channels?session_id=1E916F8BCD1A49FC95DCEE697EF6D6A6 (192.168.29.12): Kernel does not exist: 5cb19a68-4d87-41bb-a67e-d332a98235db
+[W 08:46:52.799 NotebookApp] 404 GET /api/kernels/5cb19a68-4d87-41bb-a67e-d332a98235db/channels?session_id=1E916F8BCD1A49FC95DCEE697EF6D6A6 (192.168.29.12) 4.17ms referer=None
+[W 08:46:55.030 NotebookApp] Replacing stale connection: e2b479d8-6bff-43c3-bf36-29da109b806f:4050F2FD878D417E838816C2939F07EC
+[W 08:51:00.047 NotebookApp] Replacing stale connection: 5cb19a68-4d87-41bb-a67e-d332a98235db:1E916F8BCD1A49FC95DCEE697EF6D6A6
+[W 08:55:09.037 NotebookApp] Replacing stale connection: 5cb19a68-4d87-41bb-a67e-d332a98235db:1E916F8BCD1A49FC95DCEE697EF6D6A6
+[W 08:59:26.032 NotebookApp] Replacing stale connection: e2b479d8-6bff-43c3-bf36-29da109b806f:4050F2FD878D417E838816C2939F07EC
+[W 09:03:59.033 NotebookApp] Replacing stale connection: 5cb19a68-4d87-41bb-a67e-d332a98235db:1E916F8BCD1A49FC95DCEE697EF6D6A6
+[W 09:09:04.035 NotebookApp] Replacing stale connection: e2b479d8-6bff-43c3-bf36-29da109b806f:4050F2FD878D417E838816C2939F07EC
+[W 10:49:50.898 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 10:51:53.035 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:51:53.038 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 21:32:53.152 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 10:11:54.935 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:11:54.938 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 10:13:55.085 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:13:55.088 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 10:21:54.942 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:21:54.945 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 10:23:54.932 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:23:54.935 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 10:24:31.223 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 10:27:34.802 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 10:31:06.643 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 10:33:19.097 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:33:19.100 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 10:51:58.641 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 10:56:01.855 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:56:01.858 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 10:58:01.873 NotebookApp] Saving file at /lesson4.ipynb
+[W 10:58:01.876 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 11:00:32.880 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 11:05:15.849 NotebookApp] Saving file at /lesson4.ipynb
+[W 11:05:15.852 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 13:06:02.539 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 21:32:39.946 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 21:09:38.478 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 20:21:37.302 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 16:20:26.763 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:20:26.768 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:22:26.658 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:22:26.663 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:24:26.648 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:24:26.654 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:26:26.794 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:26:26.799 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 16:28:28.433 NotebookApp] WebSocket ping timeout after 120000 ms.
+[I 16:32:37.834 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:32:37.840 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:38:26.705 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:38:26.711 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:42:26.771 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:42:26.774 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 16:44:27.272 NotebookApp] Saving file at /lesson4.ipynb
+[W 16:44:27.278 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[W 21:30:38.559 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 23:14:40.267 NotebookApp] 302 GET / (172.16.12.212) 0.59ms
+[I 23:14:40.294 NotebookApp] 302 GET /tree? (172.16.12.212) 1.97ms
+[I 23:14:48.165 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.16.12.212) 2.94ms
+[W 23:15:11.007 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 23:15:11.219 NotebookApp] Kernel started: 7e199a31-1493-478b-984b-ea5dbe11c445
+[I 23:17:48.403 NotebookApp] 302 GET / (172.16.12.212) 0.60ms
+[I 23:17:48.411 NotebookApp] 302 GET /tree? (172.16.12.212) 0.87ms
+[W 23:17:53.018 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170226215625 (172.16.12.212) 5.98ms referer=http://192.168.86.58:8888/notebooks/lesson4.ipynb
+[W 23:17:53.071 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170226215625 (172.16.12.212) 2.01ms referer=http://192.168.86.58:8888/notebooks/sgd-intro.ipynb
+[I 23:17:54.743 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.16.12.212) 1.68ms
+[W 23:18:09.684 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 23:18:10.580 NotebookApp] Kernel shutdown: 7e199a31-1493-478b-984b-ea5dbe11c445
+[I 23:22:17.932 NotebookApp] Saving file at /lesson4.ipynb
+[W 23:22:17.935 NotebookApp] Saving untrusted notebook lesson4.ipynb
+[I 14:54:19.549 NotebookApp] 302 GET /api/sessions?_=1488957727467 (192.168.29.12) 1.22ms
+[I 14:54:19.551 NotebookApp] 302 GET /api/terminals?_=1488957727468 (192.168.29.12) 0.96ms
+[I 14:54:22.219 NotebookApp] 302 GET /tree? (192.168.29.12) 1.06ms
+[I 14:54:28.762 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.29.12) 2.27ms
+[W 14:54:44.415 NotebookApp] Notebook char-rnn.ipynb is not trusted
+[I 14:54:45.525 NotebookApp] Kernel started: 4b16b2c5-9346-485d-b851-658a1771961e
+[I 14:56:45.640 NotebookApp] Saving file at /char-rnn.ipynb
+[W 14:56:45.643 NotebookApp] Saving untrusted notebook char-rnn.ipynb
+[W 20:48:51.043 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:31:30.009 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 21:26:22.184 NotebookApp] 302 GET /tree? (172.16.12.212) 1.05ms
+[I 21:26:33.495 NotebookApp] 302 POST /login?next=%2Ftree%3F (172.16.12.212) 1.73ms
+[W 21:27:08.781 NotebookApp] Notebook lesson6.ipynb is not trusted
+[I 21:27:22.779 NotebookApp] Kernel started: 2484028a-150f-4c1f-985c-7af531746f5f
+[I 21:29:22.874 NotebookApp] Saving file at /lesson6.ipynb
+[W 21:29:22.881 NotebookApp] Saving untrusted notebook lesson6.ipynb
+[I 21:29:39.846 NotebookApp] Kernel shutdown: 342930fc-ff38-4be1-bea9-ea6cd26fc995
+[I 21:29:41.842 NotebookApp] Kernel shutdown: 4b16b2c5-9346-485d-b851-658a1771961e
+[I 21:33:22.879 NotebookApp] Saving file at /lesson6.ipynb
+[W 21:33:22.886 NotebookApp] Saving untrusted notebook lesson6.ipynb
+[I 21:35:32.896 NotebookApp] Saving file at /lesson6.ipynb
+[W 21:35:32.903 NotebookApp] Saving untrusted notebook lesson6.ipynb
+[I 21:54:13.589 NotebookApp] Saving file at /lesson6.ipynb
+[I 22:11:23.488 NotebookApp] Saving file at /lesson6.ipynb
+[I 22:13:23.551 NotebookApp] Saving file at /lesson6.ipynb
+[I 22:15:33.496 NotebookApp] Saving file at /lesson6.ipynb
+[W 22:40:23.788 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 10:03:19.715 NotebookApp] Notebook char-rnn.ipynb is not trusted
+[I 10:03:24.864 NotebookApp] Kernel started: f8c28764-c835-4ee6-b46c-4ea8b573d079
+[I 10:04:08.371 NotebookApp] Kernel shutdown: f8c28764-c835-4ee6-b46c-4ea8b573d079
+[I 10:06:21.591 NotebookApp] Saving file at /lesson6.ipynb
+[I 10:08:21.258 NotebookApp] Saving file at /lesson6.ipynb
+[I 14:44:21.359 NotebookApp] Saving file at /lesson6.ipynb
+[I 14:46:27.082 NotebookApp] Saving file at /lesson6.ipynb
+[I 15:15:08.431 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:18:22.364 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:20:22.337 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:22:22.362 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:26:22.354 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:28:21.784 NotebookApp] Saving file at /lesson6.ipynb
+[W 16:30:51.690 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 16:34:00.372 NotebookApp] Saving file at /lesson6.ipynb
+[I 16:54:30.153 NotebookApp] Saving file at /lesson6.ipynb
+[W 17:02:59.732 NotebookApp] WebSocket ping timeout after 100515 ms.
+[I 17:09:24.280 NotebookApp] Saving file at /lesson6.ipynb
+[W 21:05:45.368 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170226215625 (172.16.12.212) 2.57ms referer=http://biges:8888/notebooks/lesson6.ipynb
+[I 21:11:38.572 NotebookApp] Saving file at /lesson6.ipynb
+[I 21:11:48.131 NotebookApp] Saving file at /lesson6.ipynb
+[I 21:51:29.129 NotebookApp] Saving file at /lesson6.ipynb
+[I 21:51:40.233 NotebookApp] Saving file at /lesson6.ipynb
+[W 22:26:19.889 NotebookApp] Notebook char-rnn.ipynb is not trusted
+[I 22:26:21.231 NotebookApp] Kernel started: 6b504f48-dfc2-42ca-97e4-58111b98a3a0
+[I 22:29:25.201 NotebookApp] Saving file at /lesson6.ipynb
+[W 22:55:47.087 NotebookApp] WebSocket ping timeout after 119981 ms.
+[I 09:43:58.128 NotebookApp] Saving file at /lesson6.ipynb
+[W 09:45:58.334 NotebookApp] WebSocket ping timeout after 119778 ms.
+[I 09:50:50.234 NotebookApp] Saving file at /lesson6.ipynb
+[W 12:41:21.203 NotebookApp] WebSocket ping timeout after 119880 ms.
+[I 12:44:35.323 NotebookApp] Saving file at /lesson6.ipynb
+[W 15:21:06.251 NotebookApp] WebSocket ping timeout after 119981 ms.
+[I 15:27:17.381 NotebookApp] Saving file at /lesson6.ipynb
+[I 15:35:58.214 NotebookApp] Saving file at /lesson6.ipynb
+[W 15:50:57.131 NotebookApp] Notebook lesson7.ipynb is not trusted
+[I 15:51:01.872 NotebookApp] Kernel started: 5bf05c84-879e-425f-a96e-7f3220270016
+[I 15:53:02.089 NotebookApp] Saving file at /lesson7.ipynb
+[W 15:53:02.094 NotebookApp] Saving untrusted notebook lesson7.ipynb
+[W 08:34:04.666 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 21:47:39.678 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 09:53:18.038 NotebookApp] Notebook char-rnn.ipynb is not trusted
+[W 21:56:03.112 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 21:56:06.921 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 21:56:18.926 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 13:40:03.723 NotebookApp] Kernel shutdown: 6b504f48-dfc2-42ca-97e4-58111b98a3a0
+[I 13:40:04.128 NotebookApp] Kernel shutdown: 5bf05c84-879e-425f-a96e-7f3220270016
+[I 13:40:05.166 NotebookApp] Kernel shutdown: 2484028a-150f-4c1f-985c-7af531746f5f
+[W 21:28:52.391 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 22:53:00.766 NotebookApp] 302 GET / (172.16.12.212) 0.62ms
+[W 09:16:19.275 NotebookApp] Notebook lesson5.ipynb is not trusted
+[I 09:16:21.954 NotebookApp] Kernel started: fd81498f-7fca-49c6-a6c8-6d67af0d6e79
+[W 09:16:39.703 NotebookApp] Notebook lesson4.ipynb is not trusted
+[I 09:16:44.904 NotebookApp] Kernel started: f2ba4a53-30e3-45a8-a8ba-29e0d7c8755b
+[W 09:21:36.608 NotebookApp] Notebook lesson5.ipynb is not trusted
+[I 09:23:38.870 NotebookApp] Saving file at /lesson5.ipynb
+[W 09:23:38.873 NotebookApp] Saving untrusted notebook lesson5.ipynb
+[W 09:25:17.070 NotebookApp] Notebook convolution-intro.ipynb is not trusted
+[I 09:25:18.704 NotebookApp] Kernel started: fec05fe5-2ad7-4654-a781-84d817a3a2bc
+[W 09:38:39.021 NotebookApp] WebSocket ping timeout after 119994 ms.
+[W 08:41:36.056 NotebookApp] 404 GET /api/kernels/5bf05c84-879e-425f-a96e-7f3220270016/channels?session_id=69CC76014D12469C842F489E4D00F25E (192.168.29.12): Kernel does not exist: 5bf05c84-879e-425f-a96e-7f3220270016
+[W 08:41:36.057 NotebookApp] 404 GET /api/kernels/5bf05c84-879e-425f-a96e-7f3220270016/channels?session_id=69CC76014D12469C842F489E4D00F25E (192.168.29.12) 5.37ms referer=None
+[W 08:41:40.575 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 08:44:47.603 NotebookApp] Notebook lesson5.ipynb is not trusted
+[W 08:45:49.560 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 08:50:06.587 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 08:54:39.562 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 08:59:44.565 NotebookApp] Replacing stale connection: 5bf05c84-879e-425f-a96e-7f3220270016:69CC76014D12469C842F489E4D00F25E
+[W 10:40:52.461 NotebookApp] Notebook lesson5.ipynb is not trusted
+[W 16:46:01.811 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 22:00:41.245 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 22:00:41.761 NotebookApp] Notebook lesson4.ipynb is not trusted
+[W 22:11:53.555 NotebookApp] Notebook lesson5.ipynb is not trusted
+[I 22:12:23.456 NotebookApp] Kernel started: 45bbbf6e-fd2a-485e-adf3-437a52944932
+[W 22:27:54.566 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 22:28:10.991 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 22:52:06.830 NotebookApp] Notebook wordvectors.ipynb is not trusted
+[I 22:52:08.333 NotebookApp] Kernel started: cb9eac38-efdf-4a8e-a932-675571a9d7cb
+[W 22:52:38.064 NotebookApp] Notebook statefarm.ipynb is not trusted
+[I 22:52:43.413 NotebookApp] Kernel started: ad07e86a-fb65-4d9a-bc27-0d650c5923d1
+[W 01:59:13.139 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 01:59:13.144 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 01:59:34.249 NotebookApp] WebSocket ping timeout after 119925 ms.
+[W 08:56:29.605 NotebookApp] Notebook lesson5.ipynb is not trusted
+[I 09:43:49.109 NotebookApp] Kernel shutdown: fd81498f-7fca-49c6-a6c8-6d67af0d6e79
+[I 09:43:50.012 NotebookApp] Kernel shutdown: fec05fe5-2ad7-4654-a781-84d817a3a2bc
+[I 09:43:50.798 NotebookApp] Kernel shutdown: f2ba4a53-30e3-45a8-a8ba-29e0d7c8755b
+[I 09:43:51.652 NotebookApp] Kernel shutdown: 45bbbf6e-fd2a-485e-adf3-437a52944932
+[I 09:43:52.478 NotebookApp] Kernel shutdown: cb9eac38-efdf-4a8e-a932-675571a9d7cb
+[I 09:43:53.420 NotebookApp] Kernel shutdown: ad07e86a-fb65-4d9a-bc27-0d650c5923d1
+[I 15:46:55.299 NotebookApp] Kernel started: a9a7850a-0de1-4b76-9d11-29b875c71c1e
+[W 21:02:56.638 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 21:03:01.288 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 21:44:11.929 NotebookApp] Notebook lesson5.ipynb is not trusted
+[I 21:44:14.372 NotebookApp] Kernel started: c551d03c-2d43-450c-9a5d-6aa50d33df04
+[I 22:33:10.907 NotebookApp] Saving file at /lesson6.ipynb
+[I 22:35:11.422 NotebookApp] Saving file at /lesson6.ipynb
+[I 22:52:39.232 NotebookApp] Saving file at /lesson5.ipynb
+[W 22:52:39.235 NotebookApp] Saving untrusted notebook lesson5.ipynb
+[I 22:54:39.803 NotebookApp] Saving file at /lesson5.ipynb
+[W 22:54:39.805 NotebookApp] Saving untrusted notebook lesson5.ipynb
+[I 23:02:59.849 NotebookApp] Saving file at /lesson5.ipynb
+[W 23:02:59.851 NotebookApp] Saving untrusted notebook lesson5.ipynb
+[W 23:03:25.239 NotebookApp] Notebook wordvectors.ipynb is not trusted
+[I 23:03:26.722 NotebookApp] Kernel started: fafeacdf-47fe-4fa5-a5f4-0f2db28daf48
+[W 23:04:03.085 NotebookApp] 404 GET /notebooks/www.platform.ai/models/glove (172.16.12.212): No such file or directory: www.platform.ai/models/glove
+[W 23:04:03.087 NotebookApp] 404 GET /notebooks/www.platform.ai/models/glove (172.16.12.212) 2.58ms referer=None
+[I 23:07:02.827 NotebookApp] Saving file at /lesson5.ipynb
+[W 23:07:02.830 NotebookApp] Saving untrusted notebook lesson5.ipynb
+[I 23:08:53.425 NotebookApp] Kernel interrupted: c551d03c-2d43-450c-9a5d-6aa50d33df04
+[I 23:09:02.297 NotebookApp] Saving file at /lesson5.ipynb
+[I 23:11:03.537 NotebookApp] Saving file at /lesson5.ipynb
+[I 23:13:04.430 NotebookApp] Saving file at /lesson5.ipynb
+[W 23:35:15.254 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 23:35:36.308 NotebookApp] WebSocket ping timeout after 119908 ms.
+[W 08:46:43.754 NotebookApp] 404 GET /api/kernels/fd81498f-7fca-49c6-a6c8-6d67af0d6e79/channels?session_id=40C3FE2AB3124359A8AD43351F941423 (192.168.29.12): Kernel does not exist: fd81498f-7fca-49c6-a6c8-6d67af0d6e79
+[W 08:46:43.755 NotebookApp] 404 GET /api/kernels/fd81498f-7fca-49c6-a6c8-6d67af0d6e79/channels?session_id=40C3FE2AB3124359A8AD43351F941423 (192.168.29.12) 13.13ms referer=None
+[W 08:46:45.790 NotebookApp] Replacing stale connection: fd81498f-7fca-49c6-a6c8-6d67af0d6e79:40C3FE2AB3124359A8AD43351F941423
+[I 10:59:37.094 NotebookApp] Saving file at /lesson5.ipynb
+[I 10:59:45.233 NotebookApp] Kernel interrupted: c551d03c-2d43-450c-9a5d-6aa50d33df04
+[I 11:01:37.102 NotebookApp] Saving file at /lesson5.ipynb
+[W 14:53:07.080 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 14:53:13.725 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 21:09:40.614 NotebookApp] Notebook lesson7.ipynb is not trusted
+[I 21:10:05.066 NotebookApp] Kernel started: 1879535a-7558-4314-a09a-8b247156d01a
+[W 23:28:12.465 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 23:28:31.220 NotebookApp] WebSocket ping timeout after 119958 ms.
+[W 23:28:35.964 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 00:12:58.748 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 00:12:58.803 NotebookApp] WebSocket ping timeout after 119989 ms.
+[W 00:12:58.808 NotebookApp] WebSocket ping timeout after 119994 ms.
+[I 11:20:47.727 NotebookApp] Kernel started: e57fe3bc-ceba-44fa-94ac-dceb2ecd9cd5
+[W 11:21:08.294 NotebookApp] Notebook lesson2.ipynb is not trusted
+[I 11:21:11.452 NotebookApp] Kernel started: 20675e68-fc09-45d9-ab06-bcbde9f7b6dc
+[W 11:21:48.499 NotebookApp] Notebook lesson3.ipynb is not trusted
+[I 11:21:50.310 NotebookApp] Kernel started: bd9495ac-f42d-4a86-b2fe-387b361799fb
+[I 11:22:44.655 NotebookApp] Kernel shutdown: a9a7850a-0de1-4b76-9d11-29b875c71c1e
+[W 11:22:44.670 NotebookApp] Session not found: session_id=u'b54fb512-eb6e-41f5-93f6-8a2253f8fa27'
+[W 11:22:44.671 NotebookApp] 404 DELETE /api/sessions/b54fb512-eb6e-41f5-93f6-8a2253f8fa27 (192.168.29.12) 13.77ms referer=http://192.168.86.58:8888/tree
+[I 11:22:46.401 NotebookApp] Kernel shutdown: c551d03c-2d43-450c-9a5d-6aa50d33df04
+[I 11:22:47.440 NotebookApp] Kernel shutdown: fafeacdf-47fe-4fa5-a5f4-0f2db28daf48
+[I 11:22:48.796 NotebookApp] Kernel shutdown: 1879535a-7558-4314-a09a-8b247156d01a
+[I 11:22:49.709 NotebookApp] Kernel shutdown: e57fe3bc-ceba-44fa-94ac-dceb2ecd9cd5
+[I 11:22:50.653 NotebookApp] Kernel shutdown: 20675e68-fc09-45d9-ab06-bcbde9f7b6dc
+[I 11:22:51.580 NotebookApp] Kernel shutdown: bd9495ac-f42d-4a86-b2fe-387b361799fb
+[W 14:01:41.564 NotebookApp] Notebook lesson2.ipynb is not trusted
+[I 14:01:44.654 NotebookApp] Kernel started: 277f4f32-5d54-4eb6-891e-342127983f7b
+[W 14:01:47.231 NotebookApp] Notebook lesson3.ipynb is not trusted
+[I 14:01:48.983 NotebookApp] Kernel started: 4dbf5564-cd39-4523-873b-496281af441e
+[W 17:32:08.723 NotebookApp] WebSocket ping timeout after 119922 ms.
+[W 17:32:17.785 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 17:32:17.795 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 20:16:16.531 NotebookApp] 404 GET /api/kernels/1879535a-7558-4314-a09a-8b247156d01a/channels?session_id=B9383B24BFB54B7CA0D5D832906AE4DC (172.16.12.212): Kernel does not exist: 1879535a-7558-4314-a09a-8b247156d01a
+[W 20:16:16.533 NotebookApp] 404 GET /api/kernels/1879535a-7558-4314-a09a-8b247156d01a/channels?session_id=B9383B24BFB54B7CA0D5D832906AE4DC (172.16.12.212) 13.66ms referer=None
+[W 20:16:16.541 NotebookApp] 404 GET /api/kernels/c551d03c-2d43-450c-9a5d-6aa50d33df04/channels?session_id=473E80B638B64B949779E561229580BC (172.16.12.212): Kernel does not exist: c551d03c-2d43-450c-9a5d-6aa50d33df04
+[W 20:16:16.542 NotebookApp] 404 GET /api/kernels/c551d03c-2d43-450c-9a5d-6aa50d33df04/channels?session_id=473E80B638B64B949779E561229580BC (172.16.12.212) 4.07ms referer=None
+[W 20:16:48.754 NotebookApp] Notebook lesson3.ipynb is not trusted
+[W 20:19:04.594 NotebookApp] Replacing stale connection: 1879535a-7558-4314-a09a-8b247156d01a:B9383B24BFB54B7CA0D5D832906AE4DC
+[W 20:19:04.603 NotebookApp] Replacing stale connection: c551d03c-2d43-450c-9a5d-6aa50d33df04:473E80B638B64B949779E561229580BC
+[W 21:03:39.763 NotebookApp] Notebook lesson2.ipynb is not trusted
+[W 21:04:15.552 NotebookApp] Notebook lesson3.ipynb is not trusted
+[W 21:16:53.988 NotebookApp] Replacing stale connection: 1879535a-7558-4314-a09a-8b247156d01a:B9383B24BFB54B7CA0D5D832906AE4DC
+[W 21:18:03.259 NotebookApp] Replacing stale connection: c551d03c-2d43-450c-9a5d-6aa50d33df04:473E80B638B64B949779E561229580BC
+[W 21:38:23.992 NotebookApp] WebSocket ping timeout after 119994 ms.
+[W 21:54:32.457 NotebookApp] Replacing stale connection: 1879535a-7558-4314-a09a-8b247156d01a:B9383B24BFB54B7CA0D5D832906AE4DC
+[W 21:54:32.489 NotebookApp] Replacing stale connection: c551d03c-2d43-450c-9a5d-6aa50d33df04:473E80B638B64B949779E561229580BC
+[I 21:56:11.367 NotebookApp] Kernel shutdown: 277f4f32-5d54-4eb6-891e-342127983f7b
+[I 21:56:12.445 NotebookApp] Kernel shutdown: 4dbf5564-cd39-4523-873b-496281af441e
+[W 23:22:19.889 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 00:20:32.502 NotebookApp] WebSocket ping timeout after 119879 ms.
+[W 08:34:32.107 NotebookApp] 404 GET /api/kernels/4dbf5564-cd39-4523-873b-496281af441e/channels?session_id=C9CF8770F5FA41558FF636BA1A0C39B4 (192.168.29.12): Kernel does not exist: 4dbf5564-cd39-4523-873b-496281af441e
+[W 08:34:32.108 NotebookApp] 404 GET /api/kernels/4dbf5564-cd39-4523-873b-496281af441e/channels?session_id=C9CF8770F5FA41558FF636BA1A0C39B4 (192.168.29.12) 4.85ms referer=None
+[W 08:34:34.629 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4
+[W 08:38:39.632 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4
+[W 08:38:58.425 NotebookApp] Replacing stale connection: 1879535a-7558-4314-a09a-8b247156d01a:B9383B24BFB54B7CA0D5D832906AE4DC
+[W 08:38:58.457 NotebookApp] 404 GET /api/kernels/4dbf5564-cd39-4523-873b-496281af441e/channels?session_id=E262EA2E749B4C9A9ED500F91BB91C32 (10.1.202.162): Kernel does not exist: 4dbf5564-cd39-4523-873b-496281af441e
+[W 08:38:58.458 NotebookApp] 404 GET /api/kernels/4dbf5564-cd39-4523-873b-496281af441e/channels?session_id=E262EA2E749B4C9A9ED500F91BB91C32 (10.1.202.162) 4.24ms referer=None
+[W 08:38:58.461 NotebookApp] Replacing stale connection: c551d03c-2d43-450c-9a5d-6aa50d33df04:473E80B638B64B949779E561229580BC
+[W 08:42:48.630 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4
+[W 08:45:18.029 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:E262EA2E749B4C9A9ED500F91BB91C32
+[W 08:47:05.628 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4
+[W 08:51:38.634 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4
+[W 08:56:43.647 NotebookApp] Replacing stale connection: 4dbf5564-cd39-4523-873b-496281af441e:C9CF8770F5FA41558FF636BA1A0C39B4

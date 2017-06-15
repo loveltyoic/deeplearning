@@ -1,1 +1,1 @@
-http://course.fast.ai课程
+http://course.fast.ai 课程

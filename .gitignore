@@ -5,3 +5,4 @@ dataSets/
 data/
 *.7z
 nohup.out
+.ipynb_checkpoints/
